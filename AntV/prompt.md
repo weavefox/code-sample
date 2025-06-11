@@ -1,0 +1,1 @@
+使用堆叠柱形图来展示我公司不同部门每个月的开支情况，数据如下：{ 'Marketing': { 'January': 3000, 'February': 4000, 'March': 3500 }, 'Sales': { 'January': 2000, 'February': 3000, 'March': 2800 }, 'R&D': { 'January': 4000, 'February': 4500, 'March': 4200 } }
